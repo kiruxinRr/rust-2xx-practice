@@ -14,7 +14,13 @@ mod practice12;
 mod practice13;
 mod practice14;
 mod practice15;
-mod practice16;
+mod SimpleArraySum;
+mod ComparetheTriplets;
+mod AVeryBigSum;
+mod DiagonalDifference;
+mod PlusMinus;
+mod Staircase;
+mod MiniMaxSum;
 
 fn main() {
     println!("Hello, world!");
