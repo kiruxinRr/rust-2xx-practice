@@ -21,6 +21,19 @@ mod DiagonalDifference;
 mod PlusMinus;
 mod Staircase;
 mod MiniMaxSum;
+mod BirthdayCakeCandles;
+mod TimeConversion;
+mod GradingStudents;
+mod AppleandOrange;
+mod NumberLineJumps;
+mod BetweenTwoSets;
+mod BreakingtheRecords;
+mod SubarrayDivision;
+mod DivisibleSumPairs;
+mod MigratoryBirds;
+mod BillDivision;
+mod SalesbyMatch;
+mod DrawingBook;
 
 fn main() {
     println!("Hello, world!");
